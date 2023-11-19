@@ -3,3 +3,4 @@ rdkit-pypi==2022.9.5
 scikit-learn
 torch==2.1.1+cpu
 torchvision==0.16.1+cpu
+streamlit==1.26.0
